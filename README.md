@@ -8,7 +8,7 @@ Your write-up is already clear and informative! Here's an **improved, polished v
 
 ### Member of SRM Institute of Science and Technology
 
-🔗 **Live App**: [Heart Failure Risk Predictor (Streamlit)](https://heart-failure-risk-predictor.streamlit.app/)
+🔗 **Live App**: [Heart Failure Risk Predictor (Streamlit)](https://heart-failure-predictor-master-ejsdsjyl8pc8cu5wbcnrcx.streamlit.app/)
 
 ---
 
